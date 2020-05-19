@@ -2,8 +2,8 @@
   "name": "summernote",
   "filename": "summernote.min.js",
   "version": "0.8.17",
-  "description": "Super Simple WYSIWYG Editor on Bootstrap",
-  "homepage": "http://summernote.org",
+  "description": "Super Simple WYSIWYG Editor",
+  "homepage": "https://summernote.org",
   "keywords": [
     "bootstrap",
     "summernote",
